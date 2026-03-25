@@ -109,3 +109,4 @@ Modelos disponíveis:
 
 Projeto desenvolvido por **Lara** para aprendizado de **Inteligência
 Artificial e processamento de áudio com Python**.
+
